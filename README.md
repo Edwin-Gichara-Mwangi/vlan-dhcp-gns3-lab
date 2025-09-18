@@ -71,6 +71,7 @@ interface Ethernet2/2
 Clone this repository.
 
 Open vlan-dhcp-lab.gns3project.zip in GNS3.
+https://github.com/Edwin-Gichara-Mwangi/vlan-dhcp-gns3-lab/releases/download/v1.0.0/GNS3.NETWORK.PROJECT.zip
 
 Start the router, switch, and PCs.
 
